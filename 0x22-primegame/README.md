@@ -1,1 +1,1 @@
-# 0x22. Prime Game
+# 0x0A-primegame
